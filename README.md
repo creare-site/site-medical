@@ -1,4 +1,4 @@
-# [Site Medical](https://site-medical-story.websitemarket.ro/)
+# [Site Medical](https://websitemarket.ro/site-medical)
 
 Site-uri de prezentare potrivite serviciilor medicale si cabinetelor. 
 
@@ -43,4 +43,5 @@ Site-uri de prezentare potrivite serviciilor medicale si cabinetelor.
 <br />
 
 ---
-Site-uri de prezentare pentru nisa **serviciilor medicale**  - Produs digitale **WebsiteMarket**
+[Site Medical](https://websitemarket.ro/site-medical) - Produs digitale **WebsiteMarket**
+
